@@ -24,7 +24,7 @@ A feladat megoldására az egész délutánt igénybe veheted, a megoldáshoz b�
      - a cím előtti kép kattintható és kattintás hatására betölti új lapon a Google Maps-ot a szükséges címmel (2 pont)
      - A “KÜLDÉS” gombra kattintva navigáljon el egy másik oldalra (progmaticContactConfirmation.html), melyen egy “Köszönjük megkeresését, kollégáink hamarosan felveszik Önnel a kapcsolatot!” szöveg szerepel. (2 pont)
      - Ezen oldalon szerepeljenek az alábbi elemek
-     - <h1> tag-ek segítségével a címsor (1 pont)
+     - A<h1> tag-ek segítségével a címsor (1 pont)
      - letöltött tetszőleges háttérkép alkalmazása, mely a resources könyvtárba került letöltésre (1 pont)
      - CSS beállításokkal formázd meg az oldalakat (1 pont)
      - A CSS beállításokat rakd külön, progmatic.css fájlba és hivatkozz rá a html fájlban (1 pont)
