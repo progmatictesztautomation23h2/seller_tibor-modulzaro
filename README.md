@@ -12,17 +12,17 @@ A feladat megoldására az egész délutánt igénybe veheted, a megoldáshoz b�
 4. Készíts egy új branch-et **modulzaro** néven és állj át/válts át rá. Innestől kezdve dolgozz ezen a branch-en. (2 pont)
 5. Készíts el egy mappát **webpages** néven, melybe szintén készíts el egy **resources** mappát (1 pont)
 6. Készíts egy weboldalt (progmaticContact.html), amely az alábbi kapcsolatfelvételi űrlaphoz hasonlít. A “Kapcsolat” és “Küldj üzenetet!” szekció nyugodtan helyezkedhet el egymás alatt is. Illetve a szimbólumok és mezők külalakja eltérhet a képen lévőtől, nem kell egyezzen, de felismerhetően hasonlítson 🙂
-  a. Hozd létre a fenti fájl (1 pont)
-  b. Szerepeljenek benne az alábbi elemek
-    - i. <h1>...<h6> tag-ek valamelyike legalább egyszer (1 pont)
-    - ii. <p> tag legalább egyszer (1 pont)
-    - iii.<strong> tag vagy css segítségébel félkövérített tartalom (1 pont)
-    - iv.<input type=”text”> vagy addott igénynek megfelelő beviteli mezők legalább 3-szor (1 pont)
-    - v.<textarea> tag legalább egyszer (1 pont)
-    - vi.<input type=”submit”> tag legalább egyszer (1 pont)
-    - vii. 3 kép a megfelelő méretben a telefonszámhoz, emailhez, címhez a resources mappából használva (1 pont)
-    - viii. a cím előtti kép kattintható és kattintás hatására betölti új lapon a Google Maps-ot a szükséges címmel (2 pont)
-  c. A “KÜLDÉS” gombra kattintva navigáljon el egy másik oldalra (progmaticContactConfirmation.html), melyen egy “Köszönjük megkeresését, kollégáink hamarosan felveszik Önnel a kapcsolatot!” szöveg szerepel. (2 pont)
+   + Hozd létre a fenti fájl (1 pont)
+   +  Szerepeljenek benne az alábbi elemek
+    - <h1>...<h6> tag-ek valamelyike legalább egyszer (1 pont)
+    - <p> tag legalább egyszer (1 pont)
+    - <strong> tag vagy css segítségébel félkövérített tartalom (1 pont)
+    - <input type=”text”> vagy addott igénynek megfelelő beviteli mezők legalább 3-szor (1 pont)
+    - <textarea> tag legalább egyszer (1 pont)
+    - <input type=”submit”> tag legalább egyszer (1 pont)
+    - 3 kép a megfelelő méretben a telefonszámhoz, emailhez, címhez a resources mappából használva (1 pont)
+    - a cím előtti kép kattintható és kattintás hatására betölti új lapon a Google Maps-ot a szükséges címmel (2 pont)
+   + A “KÜLDÉS” gombra kattintva navigáljon el egy másik oldalra (progmaticContactConfirmation.html), melyen egy “Köszönjük megkeresését, kollégáink hamarosan felveszik Önnel a kapcsolatot!” szöveg szerepel. (2 pont)
     - i.Ezen oldalon szerepeljenek az alábbi elemek
       1. <h1> tag-ek segítségével a címsor (1 pont)
       2. letöltött tetszőleges háttérkép alkalmazása, mely a resources könyvtárba került letöltésre (1 pont)
