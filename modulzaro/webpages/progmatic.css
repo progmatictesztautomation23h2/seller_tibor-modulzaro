@@ -1,0 +1,9 @@
+body {
+    background-image: url(./resources/computer.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#textarea {
+    margin-left: 10px;
+}
