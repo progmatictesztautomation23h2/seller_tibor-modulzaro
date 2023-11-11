@@ -14,7 +14,7 @@ A feladat megoldására az egész délutánt igénybe veheted, a megoldáshoz b�
 6. Készíts egy weboldalt (progmaticContact.html), amely az alábbi kapcsolatfelvételi űrlaphoz hasonlít. A “Kapcsolat” és “Küldj üzenetet!” szekció nyugodtan helyezkedhet el egymás alatt is. Illetve a szimbólumok és mezők külalakja eltérhet a képen lévőtől, nem kell egyezzen, de felismerhetően hasonlítson 🙂
    - Hozd létre a fenti fájl (1 pont)
    - Szerepeljenek benne az alábbi elemek
-     - <h1>...<h6> tag-ek valamelyike legalább egyszer (1 pont)
+     - A<h1>...<h6> tag-ek valamelyike legalább egyszer (1 pont)
      - <p> tag legalább egyszer (1 pont)
      - <strong> tag vagy css segítségébel félkövérített tartalom (1 pont)
      - <input type=”text”> vagy addott igénynek megfelelő beviteli mezők legalább 3-szor (1 pont)
@@ -29,10 +29,10 @@ A feladat megoldására az egész délutánt igénybe veheted, a megoldáshoz b�
      - CSS beállításokkal formázd meg az oldalakat (1 pont)
      - A CSS beállításokat rakd külön, progmatic.css fájlba és hivatkozz rá a html fájlban (1 pont)
 7. Tegyük fel, hogy a fejlesztési vezető kitalálta, hogy a weboldal jelenlegi struktúráján még lehetne javítani, és készüljön egy kezdőlap (index.html), ahol egy üdvözlőszöveg és egy gomb található. A gombra való kattintásra átnavigál a weboldal a *progmaticContact.html* oldalra. 
-  - index.html néven a kezdőlap létrehozása (0.5 pont)
-  - szerepel egy h1-es tag-ek között  lévő  “Üdvözlünk a Progmatic-nál” szöveg és egy gomb “Kapcsolatfelvétel” felirattal (0.5 pont)
-  - tetszőleges háttérkép alkalmazása (0.5 pont)
-  - navigálás működik a gombra kattintva  (0.5 pont)
+     - index.html néven a kezdőlap létrehozása (0.5 pont)
+     - szerepel egy h1-es tag-ek között  lévő  “Üdvözlünk a Progmatic-nál” szöveg és egy gomb “Kapcsolatfelvétel” felirattal (0.5 pont)
+     - tetszőleges háttérkép alkalmazása (0.5 pont)
+     - navigálás működik a gombra kattintva  (0.5 pont)
 8. A webalkalmazás minden oldalán szerepel a Progmatic logo-ja, mely kattintható és kattintás hatására a kezdőlap, az index.html töltődik be.(1 pont)
 9. Töltsd fel a branch-edre a munkádat és ellenőrizd le a github.com felületen, hogy látod-e. (2 pont)
 10. A kód jól szervezett, a weboldal és a README.md esztétikus (2 pont)
